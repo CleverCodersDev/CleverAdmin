@@ -22,7 +22,7 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "CleverCoders\\Bundle\\AdminBundle": "src"
+      "CleverCoders\\Bundle\\AdminBundle\\": "src"
     }
   }
 }
