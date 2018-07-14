@@ -1,13 +1,13 @@
 <?php
 
-namespace CleverAdminBundle;
+namespace CleverCoders\Bundle\AdminBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**
- * Class CleverAdminBundle
+ * Class CleverCodersAdminBundle
  */
-class CleverAdminBundle extends Bundle
+class CleverCodersAdminBundle extends Bundle
 {
 
 }
